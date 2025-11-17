@@ -1,0 +1,21 @@
+{
+  "name": "windows-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "svc:status": "node service-control.js status",
+    "svc:start": "node service-control.js start",
+    "svc:stop": "node service-control.js stop",
+    "svc:restart": "node service-control.js restart",
+    "start:local": "node worker.js",
+    "install:service": "node service-install.js",
+    "uninstall:service": "node service-uninstall.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-windows": "^1.0.0-beta.8"
+  }
+}

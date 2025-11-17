@@ -1,0 +1,2 @@
+2025-11-17 13:18:33 - Starting C:\Program Files\nodejs\node.exe  --harmony H:\Desktop-app-Build\node-windows-demo\node_modules\node-windows\lib\wrapper.js --file H:\Desktop-app-Build\node-windows-demo\worker.js --scriptoptions= --log "NodeWindowsDemoService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-17 13:18:33 - Started 11824

@@ -1,0 +1,18 @@
+[2025-11-17T04:27:56.103Z] Worker listening on port 3000
+[2025-11-17T04:28:11.566Z] Request: GET /
+[2025-11-17T04:28:13.055Z] Request: GET /favicon.ico
+[2025-11-17T04:28:23.840Z] Request: GET /
+[2025-11-17T04:28:24.026Z] Request: GET /favicon.ico
+[2025-11-17T04:28:24.637Z] Request: GET /
+[2025-11-17T04:28:24.823Z] Request: GET /favicon.ico
+[2025-11-17T04:31:32.269Z] Request: GET /
+[2025-11-17T04:31:33.704Z] Request: GET /favicon.ico
+[2025-11-17T04:33:52.656Z] Request: GET /
+[2025-11-17T04:33:52.857Z] Request: GET /favicon.ico
+[2025-11-17T04:34:01.126Z] Request: GET /
+[2025-11-17T04:34:01.299Z] Request: GET /favicon.ico
+[2025-11-17T04:34:07.137Z] Request: GET /
+[2025-11-17T04:34:07.333Z] Request: GET /favicon.ico
+[2025-11-17T07:18:34.355Z] Worker service running on port 3000
+[2025-11-17T07:26:02.432Z] Incoming request → GET /
+[2025-11-17T07:26:04.010Z] Incoming request → GET /favicon.ico
